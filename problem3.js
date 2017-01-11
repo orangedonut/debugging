@@ -9,8 +9,8 @@ function checkPassword() {
             alert("Access granted.")
         } else {
             alert("Access denied.")
-        
-     else {
+        }
+     }else {
         alert("I don't know that username.")
      }
 }
